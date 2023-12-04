@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **abhinav.ralhan1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YYVRm7SSYrkbv52_hGEA5DsrFa2Wf-dJ/view?usp=sharing](https://drive.google.com/file/d/1YYVRm7SSYrkbv52_hGEA5DsrFa2Wf-dJ/view?usp=sharing)
+- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1RHxwsX7fH5mH_CYymOWOkd0d6NLFikXX/view?usp=sharing)
 
 - ⚡ Fun fact **I love sudoku puzzles**
 
