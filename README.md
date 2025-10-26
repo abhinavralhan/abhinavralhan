@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavralhan" alt="abhinavralhan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abhinavr8" target="blank"><img src="https://img.shields.io/twitter/follow/abhinavr8?logo=twitter&style=for-the-badge" alt="abhinavr8" /></a> </p>
 
 - 🔭👯 I’m currently working on and can collaborate on [football analysis](https://github.com/abhinavralhan/footballanalysis)
 
@@ -28,7 +27,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abhinavr8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavr8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhinav-ralhan-856920105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-ralhan-856920105" height="30" width="40" /></a>
 <a href="https://medium.com/@abhinavr8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhinavr8" height="30" width="40" /></a>
 </p>
