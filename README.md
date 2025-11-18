@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abhinav Ralhan</h1>
+<h1 align="center">Hi 👋 I'm Abhinav Ralhan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavralhan&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavralhan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavralhan" alt="abhinavralhan" /></a> </p>
-
+<br>
 
 - 🔭👯 I’m currently working on and can collaborate on [football analysis](https://github.com/abhinavralhan/footballanalysis)
 
@@ -13,13 +10,13 @@
 
 - 📝 Sometimes I write here [http://medium.com/@abhinavr8](http://medium.com/@abhinavr8)
 
-- 💬 Ask me about **machine learning**
+- 💬 Ask me about **football analytics, machine learning, fintech**
 
 - 📫 How to reach me **abhinav.ralhan1@gmail.com**
 
 - 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1RHxwsX7fH5mH_CYymOWOkd0d6NLFikXX/view?usp=sharing)
 
-- ⚡ Fun fact **I love sudoku puzzles**
+- ⚡ Fun fact **I love sudoku puzzles. Used to love chess until it ruined me.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -38,4 +35,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavralhan&show_icons=true&locale=en" alt="abhinavralhan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavralhan&" alt="abhinavralhan" /></p>
