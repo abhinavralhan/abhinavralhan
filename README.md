@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abhinav.ralhan1@gmail.com**
 
-- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1RHxwsX7fH5mH_CYymOWOkd0d6NLFikXX/view?usp=sharing)
+- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1W1qFkjvOjL1rdAp5Y4vwSOrtSLjuUAZF/view?usp=sharing)
 
 - ⚡ Fun fact **I love sudoku puzzles. Used to love chess until it ruined me.**
 
