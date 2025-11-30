@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1W1qFkjvOjL1rdAp5Y4vwSOrtSLjuUAZF/view?usp=sharing)
 
-- ⚡ Fun fact **I love sudoku puzzles. Used to love chess until it ruined me.**
+- ⚡ Fun fact **I love sudoku puzzles.** Used to love chess until it ruined me.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
